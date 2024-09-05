@@ -36,6 +36,10 @@ I love working with different languages, frameworks and tools across the entire 
 - ⚡💬 My most controversial article: **[“NodeJS: 4.8x Faster if You go Back to Callbacks!”](https://hackernoon.com/nodejs-48x-faster-if-you-go-back-to-callbacks)** on Hackernoon.
 - ⏱️🔍My fastest syndicated article: **[“NodeJS: We can run tests natively!”](https://gemmablack.dev/nodejs-we-can-run-tests-natively)** for **[“Software Testing Weekly #207”](https://softwaretestingweekly.com/issues/207)**. 
 
+## To contact me
+
+Ping me a message on Twitter [@GemmaBlackUK](https://x.com/GemmaBlackUK).
+
 **Outside of work**
 
 [![Roxxibox Loop](./images/roxxibox-loop.png)](https://www.youtube.com/watch?v=elTS8uGdrYs)
