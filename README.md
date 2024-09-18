@@ -56,7 +56,7 @@ Ping me a message on Twitter [@GemmaBlackUK](https://x.com/GemmaBlackUK).
 
 ### Melimundo
 
-Melimundo is a free Digital Nomad Visa applications assistance for UK expats moving to Spain.
+[melimundo.com](https://melimundo.com) – A free Digital Nomad Visa applications assistance for UK expats moving to Spain.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
