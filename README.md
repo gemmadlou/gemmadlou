@@ -48,7 +48,7 @@ Ping me a message on Twitter [@GemmaBlackUK](https://x.com/GemmaBlackUK).
 
 ### Uposcar
 
-[uposcar.com](https://uposcar.com) - UpOscar frameworkless, free FIFO profit and loss calculator.
+[uposcar.com](https://uposcar.com) - UpOscar is a frameworkless, free FIFO profit and loss calculator.
 
 ![Bun](https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=white)   ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)     ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)     ![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 
